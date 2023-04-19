@@ -2,7 +2,7 @@
 This project is a Machine Learning based score predictor for IPL matches. It predicts the final score of an innings based on the current score, wickets and overs, as well as other variables such as runs scored in the last 5 overs and wickets lost in the last 5 overs.
 
 # Dataset
-The dataset used for training the model was obtained from Kaggle - Indian Premier League (Cricket).
+The dataset used for training the model was obtained from Kaggle - <a href='https://www.kaggle.com/datasets/yuvrajdagur/ipl-dataset-season-2008-to-2017/code?resource=download'>Indian Premier League (Cricket)</a>.
 
 # Models
 Three models were used for predicting the score:
