@@ -29,4 +29,4 @@ A Streamlit app was also created for easier usage of the model. The app takes us
 # Author
 This project was created by Manish Choudhary.
 
-<img align="left" href="https://www.instagram.com/expert.py" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" /> Follow me on Instagram for more projects and updates!
+<a href='https://www.instagram.com/expert.py' target='_blank'>Follow me on Instagram for more projects and updates!</a></p> 
